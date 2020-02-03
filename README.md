@@ -1,1 +1,1 @@
-# Curios-twitter
+# Curious-twitter
